@@ -1,0 +1,15 @@
+sudo apt install burpsuite
+sudo apt install cherrytree
+sudo apt install git
+sudo apt install gitg
+sudo apt install john johnny hcxtools
+sudo apt install metasploit-framework
+sudo apt install openvpn
+sudo apt install seclists
+sudo apt install smbclient enum4linux
+sudo apt install terminator nmap gobuster hashcat
+sudo apt install variety
+sudo apt install wfuzz
+sudo apt install wordlists
+sudo apt install wpscan
+sudo gem install evil-winrm
