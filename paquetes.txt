@@ -14,3 +14,4 @@ sudo apt install wfuzz
 sudo apt install wordlists
 sudo apt install wpscan
 sudo gem install evil-winrm
+sudo apt install gufw
